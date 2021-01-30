@@ -1,0 +1,36 @@
+header{
+    color: red;
+}
+
+#logo{
+    font-family: 'Monoton', cursive;
+    font-size: 38px
+}
+
+#banner{
+    font-family: 'Anton', sans-serif;
+    font-size: 22px;
+}
+
+#nav{
+    font-family: 'Anton', sans-serif;
+    font-size: 22px;
+}
+
+main{
+    color: rgb(255, 0, 191);
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+}
+
+.Highlighted{
+    color: rgb(77, 52, 70);
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+}
+
+.footer{
+    color: rgb(122, 4, 4);
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+}
